@@ -24,5 +24,5 @@ A secure password manager to store credentials for specific websites, generate s
 
 ### Notes:
 - Website names are **Case Sensitive**, so "Facebook" and "facebook" are different
-- If you want to use this for everyday life, it is highly recomended you find an encrypting software to protect your passwords, it is dangorous to leave them as plain text.
+- If you want to use this for everyday life, it is highly recomended you find an encrypting software to protect your passwords, it is dangerous to leave them as plain text.
 
