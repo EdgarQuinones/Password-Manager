@@ -7,4 +7,4 @@ A secure password manager to store credentials for specific websites, generate s
 - Saves website and password to document
 - Finds previously saved passwords
 
-[image](https://github.com/EdgarQuinones/Password-Manager/blob/main/Images/UI.png)
+![image](https://github.com/EdgarQuinones/Password-Manager/blob/main/Images/UI.png)
