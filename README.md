@@ -12,6 +12,10 @@ A secure password manager to store credentials for specific websites, generate s
 
 ![](https://github.com/EdgarQuinones/Password-Manager/blob/main/Images/Password%20File.png)
 
+### Password Finder
+
+![](https://github.com/EdgarQuinones/Password-Manager/blob/main/Images/Password%20Found.png)
+
 ### Error Handling
 
 ![](https://github.com/EdgarQuinones/Password-Manager/blob/main/Images/No%20Password%20Found.png)
