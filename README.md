@@ -1,7 +1,3 @@
-Here’s the updated write-up with the screenshots included:  
-
----
-
 # **Password Manager**  
 
 A secure and user-friendly password manager designed to help you store, organize, and protect your credentials for various websites. This tool generates strong passwords, stores them efficiently, and even copies them to your clipboard for hassle-free use. It’s perfect for simplifying your password management while keeping your accounts safe and organized.  
@@ -107,7 +103,3 @@ pip install tkinter pyperclip
 ---
 
 Feel free to contribute or raise issues for additional features and improvements! 😊  
-
---- 
-
-Let me know if you’d like further adjustments!
